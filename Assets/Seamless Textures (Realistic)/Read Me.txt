@@ -1,0 +1,15 @@
+I hope you enjoy the supplied textures/materials! Feel free to
+use them any way you'd like that abides by Unity's Asset Store
+Terms of Service and EULA (available at https://unity3d.com/legal/as_terms)
+
+Note: The assets/files in the "Extra - Demo Stuff" folder were
+only intended to be for previewing purposes. You can open the sceneIf
+to see a preview of the materials and textures. If you don't need it,
+you can delete the whole folder if you'd like.
+
+---
+
+If you have any questions, comments, or concerns, feel free to reach
+out to us at LunarsCreations@outlook.com! If you want to see more work
+like this, or want to give us feedback, you can send an email or rate us
+on the Asset Store.

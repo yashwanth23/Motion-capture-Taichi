@@ -1,0 +1,711 @@
+fileFormatVersion: 2
+guid: d87c207c8f28f704fa072b7acf4c0ed1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: C3D:optical
+    100002: C3D:yash_BackLeft
+    100004: C3D:yash_BackRight
+    100006: C3D:yash_BackTop
+    100008: C3D:yash_Chest
+    100010: C3D:yash_HeadFront
+    100012: C3D:yash_HeadSide
+    100014: C3D:yash_HeadTop
+    100016: C3D:yash_LAnkleOut
+    100018: C3D:yash_LElbowOut
+    100020: C3D:yash_LHandOut
+    100022: C3D:yash_LKneeOut
+    100024: C3D:yash_LShin
+    100026: C3D:yash_LShoulderBack
+    100028: C3D:yash_LShoulderTop
+    100030: C3D:yash_LThigh
+    100032: C3D:yash_LToeIn
+    100034: C3D:yash_LToeOut
+    100036: C3D:yash_LUArmHigh
+    100038: C3D:yash_LWristIn
+    100040: C3D:yash_LWristOut
+    100042: C3D:yash_RAnkleOut
+    100044: C3D:yash_RElbowOut
+    100046: C3D:yash_RHandOut
+    100048: C3D:yash_RKneeOut
+    100050: C3D:yash_RShin
+    100052: C3D:yash_RShoulderBack
+    100054: C3D:yash_RShoulderTop
+    100056: C3D:yash_RThigh
+    100058: C3D:yash_RToeIn
+    100060: C3D:yash_RToeOut
+    100062: C3D:yash_RUArmHigh
+    100064: C3D:yash_RWristIn
+    100066: C3D:yash_RWristOut
+    100068: C3D:yash_WaistLBack
+    100070: C3D:yash_WaistLFront
+    100072: C3D:yash_WaistRBack
+    100074: C3D:yash_WaistRFront
+    100076: //RootNode
+    100078: yash:AbNull
+    100080: yash:ChestNull
+    100082: yash:HeadNull
+    100084: yash:HipNull
+    100086: yash:LFArmNull
+    100088: yash:LFootNull
+    100090: yash:LHandNull
+    100092: yash:LShinNull
+    100094: yash:LShoulderNull
+    100096: yash:LThighNull
+    100098: yash:LToeNull
+    100100: yash:LUArmNull
+    100102: yash:NeckNull
+    100104: yash:RFArmNull
+    100106: yash:RFootNull
+    100108: yash:RHandNull
+    100110: yash:RShinNull
+    100112: yash:RShoulderNull
+    100114: yash:RThighNull
+    100116: yash:RToeNull
+    100118: yash:RUArmNull
+    400000: C3D:optical
+    400002: C3D:yash_BackLeft
+    400004: C3D:yash_BackRight
+    400006: C3D:yash_BackTop
+    400008: C3D:yash_Chest
+    400010: C3D:yash_HeadFront
+    400012: C3D:yash_HeadSide
+    400014: C3D:yash_HeadTop
+    400016: C3D:yash_LAnkleOut
+    400018: C3D:yash_LElbowOut
+    400020: C3D:yash_LHandOut
+    400022: C3D:yash_LKneeOut
+    400024: C3D:yash_LShin
+    400026: C3D:yash_LShoulderBack
+    400028: C3D:yash_LShoulderTop
+    400030: C3D:yash_LThigh
+    400032: C3D:yash_LToeIn
+    400034: C3D:yash_LToeOut
+    400036: C3D:yash_LUArmHigh
+    400038: C3D:yash_LWristIn
+    400040: C3D:yash_LWristOut
+    400042: C3D:yash_RAnkleOut
+    400044: C3D:yash_RElbowOut
+    400046: C3D:yash_RHandOut
+    400048: C3D:yash_RKneeOut
+    400050: C3D:yash_RShin
+    400052: C3D:yash_RShoulderBack
+    400054: C3D:yash_RShoulderTop
+    400056: C3D:yash_RThigh
+    400058: C3D:yash_RToeIn
+    400060: C3D:yash_RToeOut
+    400062: C3D:yash_RUArmHigh
+    400064: C3D:yash_RWristIn
+    400066: C3D:yash_RWristOut
+    400068: C3D:yash_WaistLBack
+    400070: C3D:yash_WaistLFront
+    400072: C3D:yash_WaistRBack
+    400074: C3D:yash_WaistRFront
+    400076: //RootNode
+    400078: yash:AbNull
+    400080: yash:ChestNull
+    400082: yash:HeadNull
+    400084: yash:HipNull
+    400086: yash:LFArmNull
+    400088: yash:LFootNull
+    400090: yash:LHandNull
+    400092: yash:LShinNull
+    400094: yash:LShoulderNull
+    400096: yash:LThighNull
+    400098: yash:LToeNull
+    400100: yash:LUArmNull
+    400102: yash:NeckNull
+    400104: yash:RFArmNull
+    400106: yash:RFootNull
+    400108: yash:RHandNull
+    400110: yash:RShinNull
+    400112: yash:RShoulderNull
+    400114: yash:RThighNull
+    400116: yash:RToeNull
+    400118: yash:RUArmNull
+    7400000: Tai chi final take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 2019-09-27 01.28.24 PM' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'yash:ChestNull' has translation
+      animation that will be discarded.\n\t'yash:HeadNull' has translation animation
+      that will be discarded.\n\t'yash:LHandNull' has translation animation that will
+      be discarded.\n\t'yash:RHandNull' has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Tai chi final take
+      takeName: Take 2019-09-27 01.28.24 PM
+      firstFrame: 900
+      lastFrame: 23750
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: yash:HipNull
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:RThighNull
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:RShinNull
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:RFootNull
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:AbNull
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:ChestNull
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:NeckNull
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:HeadNull
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:RShoulderNull
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:RUArmNull
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:RFArmNull
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:RHandNull
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:RToeNull
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:LShoulderNull
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:LUArmNull
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:LFArmNull
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:LHandNull
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:LThighNull
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:LShinNull
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:LFootNull
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: yash:LToeNull
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Taichi Take 2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:optical
+      parentName: Taichi Take 2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_BackLeft
+      parentName: C3D:optical
+      position: {x: -0.23975, y: 1.23252, z: 0.14244999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_BackRight
+      parentName: C3D:optical
+      position: {x: -0.3368, y: 1.23056, z: 0.01031}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_BackTop
+      parentName: C3D:optical
+      position: {x: -0.26978, y: 1.37835, z: 0.06268}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_Chest
+      parentName: C3D:optical
+      position: {x: -0.05822, y: 1.2777699, z: -0.08771}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_HeadFront
+      parentName: C3D:optical
+      position: {x: -0.08923, y: 1.6607499, z: -0.06169}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_HeadSide
+      parentName: C3D:optical
+      position: {x: -0.22797, y: 1.59767, z: -0.07473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_HeadTop
+      parentName: C3D:optical
+      position: {x: -0.18393, y: 1.67003, z: 0.037109997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LAnkleOut
+      parentName: C3D:optical
+      position: {x: -0.1405, y: 0.05593, z: 0.17851}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LElbowOut
+      parentName: C3D:optical
+      position: {x: 0.015609999, y: 1.39349, z: 0.38566002}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LHandOut
+      parentName: C3D:optical
+      position: {x: 0.25250998, y: 1.3874099, z: 0.67214996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LKneeOut
+      parentName: C3D:optical
+      position: {x: -0.09647, y: 0.47974998, z: 0.15923999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LShin
+      parentName: C3D:optical
+      position: {x: -0.10125, y: 0.21753, z: 0.09687}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LShoulderBack
+      parentName: C3D:optical
+      position: {x: -0.18679, y: 1.33154, z: 0.18902999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LShoulderTop
+      parentName: C3D:optical
+      position: {x: -0.11498, y: 1.43714, z: 0.09608}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LThigh
+      parentName: C3D:optical
+      position: {x: -0.043379996, y: 0.59937, z: 0.03719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LToeIn
+      parentName: C3D:optical
+      position: {x: -0.03328, y: 0.046939995, z: 0.03493}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LToeOut
+      parentName: C3D:optical
+      position: {x: 0.0051700003, y: 0.042779997, z: 0.12656999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LUArmHigh
+      parentName: C3D:optical
+      position: {x: -0.04999, y: 1.3247501, z: 0.35051998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LWristIn
+      parentName: C3D:optical
+      position: {x: 0.23979999, y: 1.41098, z: 0.53322}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_LWristOut
+      parentName: C3D:optical
+      position: {x: 0.1844, y: 1.3977299, z: 0.56839997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RAnkleOut
+      parentName: C3D:optical
+      position: {x: -0.3056, y: 0.0689, z: -0.06973}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RElbowOut
+      parentName: C3D:optical
+      position: {x: -0.48974997, y: 1.41097, z: -0.29947}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RHandOut
+      parentName: C3D:optical
+      position: {x: -0.74324995, y: 1.4274299, z: -0.57116}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RKneeOut
+      parentName: C3D:optical
+      position: {x: -0.28375, y: 0.45212, z: -0.109230004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RShin
+      parentName: C3D:optical
+      position: {x: -0.23464, y: 0.30773, z: -0.093609996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RShoulderBack
+      parentName: C3D:optical
+      position: {x: -0.36141998, y: 1.32967, z: -0.04446}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RShoulderTop
+      parentName: C3D:optical
+      position: {x: -0.26499, y: 1.43319, z: -0.11097}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RThigh
+      parentName: C3D:optical
+      position: {x: -0.18201, y: 0.51449, z: -0.11233}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RToeIn
+      parentName: C3D:optical
+      position: {x: -0.15957999, y: 0.04192, z: -0.09663999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RToeOut
+      parentName: C3D:optical
+      position: {x: -0.24462, y: 0.040960003, z: -0.15766}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RUArmHigh
+      parentName: C3D:optical
+      position: {x: -0.45752996, y: 1.3272599, z: -0.18832}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RWristIn
+      parentName: C3D:optical
+      position: {x: -0.59998, y: 1.4349499, z: -0.53394}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_RWristOut
+      parentName: C3D:optical
+      position: {x: -0.65212, y: 1.42245, z: -0.49560001}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_WaistLBack
+      parentName: C3D:optical
+      position: {x: -0.14305, y: 0.96369, z: 0.15709}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_WaistLFront
+      parentName: C3D:optical
+      position: {x: -0.016139999, y: 0.95627993, z: 0.06449}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_WaistRBack
+      parentName: C3D:optical
+      position: {x: -0.31954998, y: 0.97335, z: -0.03653}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3D:yash_WaistRFront
+      parentName: C3D:optical
+      position: {x: -0.19174999, y: 0.95721996, z: -0.17424}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:HipNull
+      parentName: Taichi Take 2(Clone)
+      position: {x: 0, y: 0.87205, z: -0.00237}
+      rotation: {x: 0.020374803, y: 0.012333013, z: 0.0133718755, w: 0.99962693}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:AbNull
+      parentName: yash:HipNull
+      position: {x: -0, y: 0.07437, z: 0}
+      rotation: {x: -0.0072471737, y: -0.0067188716, z: -0.019087972, w: 0.999769}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:ChestNull
+      parentName: yash:AbNull
+      position: {x: -0, y: 0.19349, z: 0.00003}
+      rotation: {x: -0.036964588, y: -0.0022386739, z: 0.0065793623, w: 0.99929243}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:LShoulderNull
+      parentName: yash:ChestNull
+      position: {x: -0.03588, y: 0.1751, z: -0.00051}
+      rotation: {x: -0.0023016739, y: -0.010393121, z: -0.13144602, w: 0.9912662}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:LUArmNull
+      parentName: yash:LShoulderNull
+      position: {x: -0.111999996, y: 0, z: 0}
+      rotation: {x: 0.024011262, y: -0.023416726, z: 0.1048247, w: 0.993925}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:LFArmNull
+      parentName: yash:LUArmNull
+      position: {x: -0.28246, y: 0, z: 0}
+      rotation: {x: -0.040607776, y: 0.025918376, z: -0.00435399, w: 0.9988295}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:LHandNull
+      parentName: yash:LFArmNull
+      position: {x: -0.25746, y: -0.000020000001, z: -0.00005}
+      rotation: {x: -0.040597986, y: 0.025414132, z: -0.016870309, w: 0.99870986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:NeckNull
+      parentName: yash:ChestNull
+      position: {x: -0, y: 0.21218, z: 0}
+      rotation: {x: -0.0023131839, y: 0.0064960304, z: 0.026907634, w: 0.9996142}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:HeadNull
+      parentName: yash:NeckNull
+      position: {x: -0, y: 0.14053, z: 0.018129999}
+      rotation: {x: -0.0050407806, y: 0.0027424446, z: 0.05840337, w: 0.9982766}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:RShoulderNull
+      parentName: yash:ChestNull
+      position: {x: 0.03663, y: 0.1751, z: -0.00051}
+      rotation: {x: -0.0036801866, y: -0.03134123, z: 0.13631572, w: 0.99016273}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:RUArmNull
+      parentName: yash:RShoulderNull
+      position: {x: 0.111999996, y: 0, z: 0}
+      rotation: {x: 0.050349053, y: 0.042667497, z: -0.1054234, w: 0.99223506}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:RFArmNull
+      parentName: yash:RUArmNull
+      position: {x: 0.28246, y: 0, z: 0}
+      rotation: {x: -0.05667537, y: -0.023105124, z: 0.00863467, w: 0.99808794}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:RHandNull
+      parentName: yash:RFArmNull
+      position: {x: 0.255, y: 0, z: 0}
+      rotation: {x: -0.05669038, y: 0.002527064, z: 0.013300144, w: 0.9983}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:LThighNull
+      parentName: yash:HipNull
+      position: {x: -0.09069, y: 0, z: 0}
+      rotation: {x: 0.041163944, y: 0.009132099, z: -0.041884705, w: 0.99823236}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:LShinNull
+      parentName: yash:LThighNull
+      position: {x: -0, y: -0.40495, z: 0}
+      rotation: {x: -0.0011615336, y: 0.017306868, z: 0.032264177, w: 0.99932885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:LFootNull
+      parentName: yash:LShinNull
+      position: {x: -0, y: -0.40646, z: 0}
+      rotation: {x: -0.06482403, y: -0.15055469, z: -0.002419217, w: 0.9864712}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:LToeNull
+      parentName: yash:LFootNull
+      position: {x: -0, y: -0.05895, z: 0.13602999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:RThighNull
+      parentName: yash:HipNull
+      position: {x: 0.09069, y: 0, z: 0}
+      rotation: {x: 0.012334187, y: -0.035916965, z: 0.0025473193, w: 0.99927545}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:RShinNull
+      parentName: yash:RThighNull
+      position: {x: -0, y: -0.40495, z: 0}
+      rotation: {x: 0.024790706, y: -0.026579808, z: -0.008847271, w: 0.9993001}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:RFootNull
+      parentName: yash:RShinNull
+      position: {x: -0, y: -0.40646, z: 0}
+      rotation: {x: -0.040920354, y: 0.12941456, z: 0.026528955, w: 0.99039066}
+      scale: {x: 1, y: 1, z: 1}
+    - name: yash:RToeNull
+      parentName: yash:RFootNull
+      position: {x: -0, y: -0.05895, z: 0.13602999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
